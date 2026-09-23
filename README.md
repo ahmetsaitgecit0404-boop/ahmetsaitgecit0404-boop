@@ -91,9 +91,22 @@ Tarayıcıda, kurulum gerektirmeden oynanan PSX tarzı korku oyunu. Eski PlaySta
 
 <a href="#"><img src="img/b_motor.svg" width="100%" alt="04 — Motor ve Araçlar"></a>
 
-<a href="#"><img src="img/motor.svg" width="100%" alt="Geçit Engine — NVIDIA PhysX 5, GPU akışkan simülasyonu, binaural ses, Vulkan Forward+"></a>
+<a href="#"><img src="img/motor.svg" width="100%" alt="Geçit Engine — NVIDIA PhysX 5, GPU parçacık simülasyonu, binaural ses, Vulkan Forward+"></a>
 
-> **Geçit Engine** — Godot 4.3 üzerine kurduğum, kaynaktan derlenen oyun motoru. **NVIDIA PhysX 5.11** motora gömülü olarak entegre edildi: katı cisimler gerçek PhysX ile simüle ediliyor ve editördeki Yapı Paneli'nde seçili bir model tek tıkla fiziğe bağlanıyor. Bunun yanında compute shader tabanlı **GPU akışkan simülasyonu**, yükseklik ve ön-arka algısı veren **binaural 3B ses** modülü, Türkçe arayüz ve kendi editör teması var.
+> **Geçit Engine** — Godot 4.3 üzerine kurduğum, kaynaktan derlenen oyun motoru. **NVIDIA PhysX 5.11** motora gömülü olarak entegre edildi: katı cisimler gerçek PhysX ile simüle ediliyor ve editördeki Yapı Paneli'nde seçili bir model tek tıkla fiziğe bağlanıyor. Bunun yanında Vulkan compute ile çalışan **GPU parçacık simülasyonu** (akışkan çözücünün ilk aşaması), yükseklik ve ön-arka algısı veren **binaural 3B ses** modülü, Türkçe arayüz ve kendi editör teması var.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="#"><img src="img/v_physx.webp" width="100%" alt="NVIDIA PhysX 5 demo: 256 kutu ve küreden oluşan kule yıkılıyor"></a><br>
+<b>NVIDIA PhysX 5.11 · canlı kayıt</b> — 208 kutudan oluşan kule kendi ağırlığıyla yıkılıyor, 8 küre ve 48 yeni kutu üstüne düşüyor. Kayıt Geçit Engine'in kendi film kaydedicisiyle, 30 FPS sabit adımla alındı.
+</td>
+<td width="50%" valign="top">
+<a href="#"><img src="img/v_parcacik.webp" width="100%" alt="GPU parçacık simülasyonu: 131 bin parçacık cam kutuya düşüyor"></a><br>
+<b>GPU parçacık simülasyonu · canlı kayıt</b> — 131.072 parçacık tamamen ekran kartında, Vulkan compute ile hesaplanıp CPU'ya hiç dönmeden çiziliyor.
+</td>
+</tr>
+</table>
 
 <table>
 <tr>
