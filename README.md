@@ -9,6 +9,11 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Construct_3-00A3FF?style=flat-square&logo=construct3&logoColor=white">
+  <img src="https://img.shields.io/badge/Construct_2-0E7FC0?style=flat-square">
+  <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white">
+  <img src="https://img.shields.io/badge/Unity-222222?style=flat-square&logo=unity&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white">
@@ -23,6 +28,7 @@
 </p>
 
 <p align="center">
+  <a href="#-yetenekler">Yetenekler</a> ·
   <a href="#-oyunlar">Oyunlar</a> ·
   <a href="#%EF%B8%8F-oyun-motoru-ve-modlama">Motor ve modlama</a> ·
   <a href="#-video-araçları">Video araçları</a> ·
@@ -31,6 +37,25 @@
 </p>
 
 ---
+
+## 🧩 Yetenekler
+
+<table>
+<tr>
+<td width="33%" valign="top">
+<h3>🕹️ HTML5 oyunları</h3>
+<b>Construct 3</b> ve <b>Construct 2</b> ile ileri seviyede oyun geliştiriyorum. Tarayıcıda ve mobilde çalışan HTML5 oyunları yapıyorum.
+</td>
+<td width="33%" valign="top">
+<h3>🗺️ Harita ve seviye tasarımı</h3>
+<b>Unreal Engine</b>, <b>Unity</b> ve <b>Godot</b>'ta harita ve seviye tasarımı yapıyorum: oynanış akışı, ortam düzeni, ışık ve atmosfer.
+</td>
+<td width="33%" valign="top">
+<h3>⚙️ Oyun ve araç geliştirme</h3>
+Kendi oyun motorum, oyun modları, çok oyunculu ağ kodu, video kurgu araçları ve web uygulamaları.
+</td>
+</tr>
+</table>
 
 ## 🎮 Oyunlar
 
