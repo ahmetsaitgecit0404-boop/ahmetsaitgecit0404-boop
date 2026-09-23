@@ -1,196 +1,127 @@
 <p align="center">
-  <img src="img/banner.jpg" alt="Geçit Game Studio" width="100%">
-</p>
-
-<h1 align="center">Ahmet Sait Geçit</h1>
-<p align="center">
-  <b>Oyun geliştirici · Geçit Game Studio</b><br>
-  Oyunlar, oyun motoru, video kurgu araçları ve hukuk teknolojisi üzerine çalışıyorum.
+  <img src="img/hero.svg" width="100%" alt="Ahmet Sait Geçit — Web ve hukuk teknolojisi, oyun geliştirme, harita tasarımı">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Construct_3-00A3FF?style=flat-square&logo=construct3&logoColor=white">
-  <img src="https://img.shields.io/badge/Construct_2-0E7FC0?style=flat-square">
-  <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white">
-  <img src="https://img.shields.io/badge/Unity-222222?style=flat-square&logo=unity&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/three.js-000000?style=flat-square&logo=threedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/WebGL2-990000?style=flat-square&logo=webgl&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/Construct_3-00A3FF?style=for-the-badge&logo=construct3&logoColor=white">
+  <img src="https://img.shields.io/badge/Construct_2-0E7FC0?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white">
+  <img src="https://img.shields.io/badge/Unity-222222?style=for-the-badge&logo=unity&logoColor=white">
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
 </p>
+
+<br>
+
+<img src="img/b_web.svg" width="100%" alt="01 — Web ve Hukuk Teknolojisi">
 
 <p align="center">
-  <a href="#-yetenekler">Yetenekler</a> ·
-  <a href="#-oyunlar">Oyunlar</a> ·
-  <a href="#%EF%B8%8F-oyun-motoru-ve-modlama">Motor ve modlama</a> ·
-  <a href="#-video-araçları">Video araçları</a> ·
-  <a href="#-web-ve-hukuk-teknolojisi">Web</a> ·
-  <a href="#-masaüstü-ve-mobil-araçlar">Masaüstü ve mobil</a>
+  <a href="https://muvekkilbilgi.com"><img src="img/canli_muvekkilbilgi.svg" width="100%" alt="muvekkilbilgi.com canlı önizleme"></a>
 </p>
 
----
+> **[muvekkilbilgi.com](https://muvekkilbilgi.com)** — İnsanların hukuki haklarını öğrenip tazminatlarını birkaç saniyede hesaplayabildiği platform.
+> Trafik kazası, değer kaybı ve işçilik alacağı **hesaplama motorları** · vergi tebligatı, gümrük, SGK, emlak ve müteahhit konularında **adım adım risk analizi** ve PDF rapor · **yapay zekâ destekli sohbet** · **2FA korumalı yönetim paneli** ve kural motoru.
 
-## 🧩 Yetenekler
+<br>
 
-<table>
-<tr>
-<td width="33%" valign="top">
-<h3>🕹️ HTML5 oyunları</h3>
-<b>Construct 3</b> ve <b>Construct 2</b> ile ileri seviyede oyun geliştiriyorum. Tarayıcıda ve mobilde çalışan HTML5 oyunları yapıyorum.
-</td>
-<td width="33%" valign="top">
-<h3>🗺️ Harita ve seviye tasarımı</h3>
-<b>Unreal Engine</b>, <b>Unity</b> ve <b>Godot</b>'ta harita ve seviye tasarımı yapıyorum: oynanış akışı, ortam düzeni, ışık ve atmosfer.
-</td>
-<td width="33%" valign="top">
-<h3>⚙️ Oyun ve araç geliştirme</h3>
-Kendi oyun motorum, oyun modları, çok oyunculu ağ kodu, video kurgu araçları ve web uygulamaları.
-</td>
-</tr>
-</table>
+<img src="img/canli_gecit_hukuk.svg" width="100%" alt="Geçit Hukuk Bürosu kurumsal sitesi">
 
-## 🎮 Oyunlar
+> **Geçit Hukuk Bürosu** — 24 sayfalık, hiçbir bağımlılığı olmayan kurumsal site. On çalışma alanı, avukat kadrosu, makaleler, KVKK, sık sorulan sorular ve randevu akışı. Masaüstü ve mobil uyumlu.
+
+<br>
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<img src="img/the_last_favor.jpg" width="100%"><br>
-<h3>THE LAST FAVOR <sub>(PAYDUŞ)</sub></h3>
-Adana'da bir mahallede geçen açık dünya mahalle simülasyonu. Tefeciye borçlu bir gencin mafya hikâyesi, bölüm seçimi, üç zorluk seviyesi ve oyunun içinden dünyayı düzenlemeye yarayan bir editör var. Masaüstü ve Android için paketleniyor, Google Play yayını hazırlanıyor.<br><br>
-<code>three.js</code> <code>Electron</code> <code>Android</code>
+<img src="img/canli_bahhsaf.svg" width="100%" alt="BAHHSAF">
+<br>
+<b>BAHHSAF</b> — Video prodüksiyon ve web tasarım ajansı sitesi. Hizmetler, çekimden yayına süreç, örnek işler ve kafeler ile yerel işletmeler için hazır paketler.
 </td>
 <td width="50%" valign="top">
-<img src="img/the_last_favor_2.jpg" width="100%"><br>
-<img src="img/the_last_favor_3.jpg" width="100%">
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>COLD ZONE</h3>
-Kendi oyun motorum Geçit Engine üzerinde, Forward+ renderer ile yapılan çok oyunculu birinci şahıs nişancı oyunu. Önce <b>TAHLİYE</b> adında Türkçe bir extraction shooter olarak başladı. PBR kaplamalar, rigli karakterler ve animasyon kütüphanesi kullanıyor. Hedef platform Steam.<br><br>
-<code>Geçit Engine</code> <code>GDScript</code> <code>Multiplayer</code>
-</td>
-<td width="50%" valign="top">
-<img src="img/korku_ormani.jpg" width="100%"><br>
-<h3>KORKU ORMANI</h3>
-Tarayıcıda çalışan, PSX tarzı retro 3B korku oyunu. Düşük çözünürlüklü, eski PlayStation hissi veren özel bir render hattı kullanıyor.<br><br>
-<code>three.js</code> <code>JavaScript</code> <code>WebGL</code>
+<img src="img/panel.svg" width="100%" alt="Müvekkil Bilgi büro paneli ve 2FA yönetim girişi">
+<br>
+<b>Müvekkil Bilgi büro paneli</b> — Müvekkil ve dosya takibi, yasal süre uyarıları ve anlık bildirimler. Veriler Supabase'de satır bazlı güvenlikle (RLS) avukat başına ayrılıyor. Yönetim paneline giriş iki adımlı doğrulamayla (TOTP) yapılıyor.
 </td>
 </tr>
 </table>
 
-## ⚙️ Oyun motoru ve modlama
+<br>
+
+<img src="img/b_yetenek.svg" width="100%" alt="02 — Yetenekler">
+
+<img src="img/yetenekler.svg" width="100%" alt="HTML5 oyunları (Construct 2/3), harita tasarımı (Unreal, Unity, Godot), web ve hukuk teknolojisi, motor ve araç geliştirme">
+
+<br>
+
+<img src="img/b_oyun.svg" width="100%" alt="03 — Oyunlar ve Modlar">
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<img src="img/gecit_engine.jpg" width="100%"><br>
-<h3>Geçit Engine</h3>
-Godot 4.3 üzerine kurulu, bağımsız oyunlara ve PSX korku ile simülasyon türlerine yönelik hafif bir oyun motoru. Editör ve dışa aktarma şablonları kaynaktan derleniyor. GLES3 tarafında shader hatalarını düzelttim, kendi arayüz teması ve markası var.<br><br>
-<code>C++</code> <code>SCons</code> <code>OpenGL / Vulkan</code>
+<img src="img/k_last_favor.svg" width="100%" alt="THE LAST FAVOR">
+Adana'da bir mahallede geçen açık dünya oyunu. Tefeciye borçlu bir gencin mafya hikâyesi, bölüm seçimi, üç zorluk seviyesi ve oyunun içinden dünyayı düzenleyen bir editör var. Masaüstü ve Android için paketleniyor.
 </td>
 <td width="50%" valign="top">
-<h3>AnomalyOnline</h3>
-Steam'deki <i>Anomaly President</i> oyununa 8 kişilik çevrimiçi oynanış ekleyen mod. Steam P2P üzerinden, sunucunun hakem olduğu (host-otoriteli) bir ağ yapısı kullanıyor. Horde, PvP ve serbest dolaşım modları planlandı. Kolay kurulum için bir kurulum programı da var.<br><br>
-<code>C#</code> <code>BepInEx 6</code> <code>IL2CPP</code> <code>Steamworks</code>
-<br><br>
-<h3>Zümrüt Motoru</h3>
-GameMaker oyunları için komut satırından çalışan kayıt ve mod aracı. <code>data.win</code> dosyasını okuyor. Eşya, görev ve diyalog tablolarını listeliyor, kayıt dosyasını düzenliyor ve mod yüklüyor.<br><br>
-<code>Python</code> <code>PyInstaller</code>
+<img src="img/k_cold_zone.svg" width="100%" alt="COLD ZONE">
+Kendi motorum Geçit Engine üzerinde, Forward+ renderer ile çok oyunculu birinci şahıs nişancı oyunu. Önce <b>TAHLİYE</b> adında Türkçe bir extraction shooter olarak başladı. Hedef platform Steam.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<img src="img/k_korku.svg" width="100%" alt="KORKU ORMANI">
+Tarayıcıda, kurulum gerektirmeden oynanan PSX tarzı korku oyunu. Eski PlayStation hissi veren düşük çözünürlüklü özel bir render hattı kullanıyor.
+</td>
+<td width="50%" valign="top">
+<img src="img/k_anomaly.svg" width="100%" alt="AnomalyOnline">
+<i>Anomaly President</i> oyununa 8 kişilik çevrimiçi oynanış ekleyen mod. Steam P2P üzerinden host-otoriteli ağ yapısı ve tek tıkla kurulum programı var.
 </td>
 </tr>
 </table>
 
-## 🎬 Video araçları
+<br>
+
+<img src="img/b_motor.svg" width="100%" alt="04 — Motor ve Araçlar">
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<img src="img/gecit_edit.jpg" width="100%"><br>
-<h3>Geçit Edit</h3>
-Reels, Shorts ve TikTok için tarayıcıda çalışan video kurgu programı. WebGL2 ile görüntü işliyor, WebCodecs ile MP4 dışa aktarıyor. Özellikleri:
-<ul>
-<li>16 kamera hareketi, 26 geçiş, 12 look, 12 renk düzenleme ayarı</li>
-<li>Anahtar kare (keyframe) sistemi ve müziğin ritmini algılama</li>
-<li>3B logo katmanı ve hazır şablonlar</li>
-<li>Whisper ile otomatik Türkçe altyazı</li>
-</ul>
-Kurulum gerektirmiyor.<br><br>
-<code>WebGL2</code> <code>WebCodecs</code> <code>Whisper</code> <code>Node.js</code>
+<img src="img/k_engine.svg" width="100%" alt="Geçit Engine">
+Godot 4.3 üzerine kurulu, bağımsız oyunlara yönelik hafif oyun motoru. Kaynaktan derleniyor. GLES3 shader hatalarını düzelttim, kendi teması ve markası var.
 </td>
 <td width="50%" valign="top">
-<h3>Araba Edit</h3>
-Ham araba kliplerinden müziğin ritmine oturan dikey (1080×1920) edit videoları üreten araç. After Effects'te elle yapılan işleri otomatik yapıyor: vuruşta kesme, hız rampası, zoom punch, tekerleğe veya fara yaklaşan geçişler, whip pan, glitch, gece renk ayarı ve bloom.<br><br>
-<code>Python</code> <code>FFmpeg</code>
-</td>
-</tr>
-</table>
-
-## 🌐 Web ve hukuk teknolojisi
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<img src="img/muvekkilbilgi.jpg" width="100%"><br>
-<h3><a href="https://muvekkilbilgi.com">muvekkilbilgi.com</a></h3>
-İnsanların hukuki haklarını öğrenip tazminatlarını hesaplayabildiği site. Sunduklarım:
-<ul>
-<li>Trafik kazası, değer kaybı ve işçilik alacağı hesaplayıcıları</li>
-<li>Vergi tebligatı, gümrük, SGK gibi konular için adım adım risk analizi araçları ve PDF rapor</li>
-<li>Yapay zekâ destekli sohbet</li>
-<li>İki adımlı doğrulamalı (2FA) yönetim paneli</li>
-</ul>
-<code>Node.js</code> <code>Netlify Functions</code> <code>Supabase</code>
-</td>
-<td width="50%" valign="top">
-<img src="img/gecit_hukuk.jpg" width="100%"><br>
-<h3>Geçit Hukuk kurumsal sitesi</h3>
-Bir hukuk bürosunun kurumsal sitesi: 24 sayfa, statik, hiçbir bağımlılığı yok. Çalışma alanları, ekip, makaleler, KVKK ve randevu sayfaları var.<br><br>
-<code>HTML</code> <code>CSS</code> <code>JavaScript</code>
+<img src="img/k_gecit_edit.svg" width="100%" alt="Geçit Edit">
+Tarayıcıda çalışan kurgu programı: 16 kamera hareketi, 26 geçiş, anahtar kareler, ritim analizi, 3B logo ve Whisper ile otomatik Türkçe altyazı.
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<img src="img/bahhsaf.jpg" width="100%"><br>
-<h3>BAHHSAF</h3>
-Video prodüksiyon ve web tasarım ajansı için tanıtım sitesi. Kafeler ve yerel işletmeler için hazır paketler sunuyor.<br><br>
-<code>HTML</code> <code>CSS</code> <code>JavaScript</code>
+<img src="img/k_araba_edit.svg" width="100%" alt="Araba Edit">
+Ham kliplerden müziğin vuruşlarına oturan dikey editler üretiyor: hız rampası, zoom punch, whip pan, glitch ve gece renk ayarı.
 </td>
 <td width="50%" valign="top">
-<h3>Müvekkil Bilgi büro paneli</h3>
-Hukuk bürosunun kendi içinde kullandığı panel: müvekkil ve dosya takibi, yasal süre uyarıları, anlık bildirimler. Veriler satır bazlı güvenlikle (RLS) avukat başına ayrılıyor.<br><br>
-<code>TypeScript</code> <code>Vite</code> <code>Supabase</code> <code>Edge Functions</code>
+<img src="img/k_ceviri.svg" width="100%" alt="ÇeviriHUD">
+Oyun oynarken ekrandaki yazıları anında Türkçeye çeviren küçük bir baloncuk. Oyun dosyalarına dokunmadığı için GTA 5 Online'da da çalışıyor.
 </td>
 </tr>
-</table>
-
-## 🧰 Masaüstü ve mobil araçlar
-
-<table>
 <tr>
 <td width="50%" valign="top">
-<h3>ÇeviriHUD</h3>
-Oyun oynarken ekrandaki yazıları anında Türkçeye çeviren küçük bir baloncuk. Oyun dosyalarına dokunmuyor, bu yüzden Türkçe yamanın çalışmadığı GTA 5 Online'da da kullanılabiliyor. Windows'un kendi OCR'ını kullanıyor, ekran üzerinde tıklamaları engellemeden duruyor ve kısayol tuşlarıyla yönetiliyor.<br><br>
-<code>Python</code> <code>PySide6</code> <code>Windows OCR</code>
+<img src="img/k_zumrut.svg" width="100%" alt="Zümrüt Motoru">
+GameMaker oyunları için komut satırı aracı: <code>data.win</code> dosyasını çözümlüyor, eşya, görev ve diyalogları listeliyor, kayıt dosyasını düzenliyor.
 </td>
 <td width="50%" valign="top">
-<h3>Müvekkil Bilgi Doğrulayıcı</h3>
-Yönetim paneline giriş için iki adımlı doğrulama kodu üreten uygulama (RFC 6238 TOTP). Android ve Windows sürümü var, internet bağlantısı gerektirmiyor.<br><br>
-<code>Java (Android)</code> <code>Python</code>
+<img src="img/k_dogrulayici.svg" width="100%" alt="2FA Doğrulayıcı">
+Yönetim paneline giriş için doğrulama kodu üreten uygulama (RFC 6238). Android ve Windows sürümü var, internet bağlantısı gerektirmiyor.
 </td>
 </tr>
 </table>
 
----
+<br>
 
-<p align="center">
-  <sub>Projelerin kaynak kodları gizli depolarda tutuluyor. İş birliği veya demo için bana GitHub üzerinden ulaşabilirsiniz.</sub>
-</p>
+<img src="img/alt.svg" width="100%" alt="Kaynak kodlar gizli depolarda tutuluyor">
